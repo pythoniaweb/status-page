@@ -13,7 +13,7 @@ const app = express();
 var clc = require("cli-color");
 const config = require('./config.json')
 const now = moment().format("YYYY, MM, DD, HH:mm")
-const port = 8080
+const port = 1510
 const {
 	JsonDatabase
 } = require("wio.db");
