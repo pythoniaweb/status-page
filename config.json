@@ -1,5 +1,5 @@
 {
-	"refresh_time": "300000",
+	"refresh_time": "50000",
 	"links": {
 		"1": {
 			"link_id": "1",
